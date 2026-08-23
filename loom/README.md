@@ -22,5 +22,5 @@ This 5–7 minute walkthrough covers:
 6. **Exercise 4 (Output Format):** Explanation of the structured user-story format and how it adapts to different scenarios.
 7. **Conclusion:** Summary of how the concepts work together in practice.
 
-**Presenter:** [Your Name]  
-**Date:** August 2026
+**Presenter:** [Umaima Pathan]  
+**Date:** 23 August 2026
