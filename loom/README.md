@@ -4,7 +4,7 @@ This folder contains the link and description for the Loom video submission.
 
 ## Video Link
 
-**[INSERT LOOM LINK HERE]**
+**[[LOOM LINK HERE](https://www.loom.com/share/a3f0db2509224d62aea2f60d31625050)]**
 
 ## Video Description
 
