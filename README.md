@@ -26,7 +26,7 @@ The theoretical concepts from Exercise 3 and 4 were applied to create a function
 ## Loom Video Walkthrough
 
 A detailed walkthrough of the assessment and practical demonstration is available here:  
-**[[INSERT LOOM LINK HERE](https://www.loom.com/share/a3f0db2509224d62aea2f60d31625050)]**
+**[[LOOM LINK HERE](https://www.loom.com/share/a3f0db2509224d62aea2f60d31625050)]**
 
 ---
 
